@@ -104,7 +104,10 @@ Using the demo dataset:
 ## 📷 Screenshots
 ## Feature Info & Evaluation
 ## Prediction Output
-
+https://github.com/EduMartinezz/Monkeypox-Prediction-and-Analysis-App/blob/main/app_interface.PNG
+https://github.com/EduMartinezz/Monkeypox-Prediction-and-Analysis-App/blob/main/app_interface1.PNG
+https://github.com/EduMartinezz/Monkeypox-Prediction-and-Analysis-App/blob/main/app_interface2.PNG
+https://github.com/EduMartinezz/Monkeypox-Prediction-and-Analysis-App/blob/main/app_interface3.PNG
 ### 📂 Project Structure
 ├── app.py                 # Streamlit dashboard
 ├── notebooks/             # Data cleaning, EDA, training notebook
