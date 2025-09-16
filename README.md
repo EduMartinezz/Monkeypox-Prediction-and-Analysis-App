@@ -1,7 +1,7 @@
 # 🦠 Monkeypox (Mpox) Predictor & Evaluator
 
 A machine learning web app that predicts **Monkeypox PCR test results** based on clinical and demographic features.  
-This project demonstrates a **full ML workflow**: data preprocessing, exploratory analysis, model training, evaluation, and deployment with Streamlit.  
+This project demonstrates a **full ML workflow**: data preprocessing, exploratory analysis, model training, evaluation, and deployment with Streamlit. 
 
 ---
 
